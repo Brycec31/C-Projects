@@ -5,4 +5,4 @@ days.c: Enter a date in the 2020-21 school year. The rotation day (day 1, day 2,
 
 coordinate.c: Enter the coordinates of a starting point and an end point. The direction of the fastest
 route will be displayed. 
-Compile using gcc -lm coordinate.c
+                                      Compile using gcc -lm coordinate.c
