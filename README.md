@@ -5,3 +5,5 @@ days.c: Enter a date in the 2020-21 school year. The rotation day (day 1, day 2,
 
 coordinate.c: Enter the coordinates of a starting point and an end point. The direction of the fastest
 route will be display. Sinc this program uses math library functions, it must be compiled with "gcc -lm coordinate.c"
+
+ShoppingApp: A java app developed for Android. Given your hourly wage and the price of an item, it will calculate how many hours of work the item costs you.
