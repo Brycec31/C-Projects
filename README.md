@@ -1,4 +1,4 @@
-# C-Projects
+# Projects
 inchestocm.c: Converts a measurment in inches to a measurment in centimetres.
 
 days.c: Enter a date in the 2020-21 school year. The rotation day (day 1, day 2, etc.) will be outputed.
